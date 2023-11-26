@@ -1,0 +1,101 @@
+body {
+    background-color: #DAD7CD;
+    color: #588157;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+}
+
+/* nav {
+    background-color: #588157;
+    color: #DAD7CD;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #DAD7CD;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+} */
+nav {
+    background-color: #588157;
+    color: #DAD7CD;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #DAD7CD;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+
+/* h1 {
+    color: #588157;
+    margin: 0px;
+    margin-top: 26px;
+    margin-left: 505px;
+    font-weight: bolder;
+    font-size: 35;
+    margin-bottom: 35px;
+    margin-right: 500px;
+    line-height: 1.5;
+    text-shadow: 13px 2px 4px rgba(0, 0, 0, 0.2);
+} */
+
+.Website {
+    margin: 19px;
+    padding: 71px;
+    background-color: #DAD7CD;
+    border-radius: 144px;
+    margin-top: 30px;
+}
+
+h1 {
+    color: #588157;
+    margin: 0;
+    margin-top: -37px;
+    margin-bottom: 27px;
+    text-shadow: 13px 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 144px;
+    margin-left: 505px;
+
+}
+
+.text {
+    color: #588157;
+    line-height: 3;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Lala {
+    width: 510px; 
+    height: 510px; 
+    border: none; 
+    float: left;
+    margin: 0px;
+    margin-top: -87px;
+    margin-bottom: 38px;
+    margin-left: 175px;
+    margin-right: 0px;
+    
+}
+
+.Aftandil {
+    width: 512px; 
+    height: 510px; 
+    border: none; 
+    float: left;
+    margin: 0px;
+    margin-top: -127px;
+    margin-bottom: 38px;
+    margin-left: 111px;
+    margin-right: 0px;
+}
+
+
